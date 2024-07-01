@@ -6,6 +6,18 @@ Welcome to my GitHub profile! I'm passionate about web development, data science
 
 ## 🛠️ Technologies & Tools
 
+### Data Science & Machine Learning
+![Pandas](https://img.shields.io/badge/-Pandas-333333?style=flat-square&logo=pandas)
+![NumPy](https://img.shields.io/badge/-NumPy-333333?style=flat-square&logo=numpy)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-333333?style=flat-square&logo=matplotlib)
+![SciPy](https://img.shields.io/badge/-SciPy-333333?style=flat-square&logo=scipy)
+![scikit-learn](https://img.shields.io/badge/-scikit--learn-333333?style=flat-square&logo=scikit-learn)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-333333?style=flat-square&logo=tensorflow)
+![Keras](https://img.shields.io/badge/-Keras-333333?style=flat-square&logo=keras)
+![PyTorch](https://img.shields.io/badge/-PyTorch-333333?style=flat-square&logo=pytorch)
+![OpenCV](https://img.shields.io/badge/-OpenCV-333333?style=flat-square&logo=opencv)
+![NLTK](https://img.shields.io/badge/-NLTK-333333?style=flat-square&logo=nltk)
+
 ### Programming Languages
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat-square&logo=javascript)
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat-square&logo=python)
@@ -52,8 +64,8 @@ Welcome to my GitHub profile! I'm passionate about web development, data science
 
 ## 🌟 Top Repositories
 
-[![Repo Name](https://github-readme-stats.vercel.app/api/pin/?username=kaushikar11&repo=Repo-Name&theme=radical)](https://github.com/kaushikar11/Repo-Name)
-[![Repo Name](https://github-readme-stats.vercel.app/api/pin/?username=kaushikar11&repo=Repo-Name&theme=radical)](https://github.com/kaushikar11/Repo-Name)
+[![Tweeshirt]((https://github.com/kaushikar11/Repo-Name](https://github.com/kaushikar11/Tweeshirt-frontend))
+
 
 ## 📫 How to reach me
 
