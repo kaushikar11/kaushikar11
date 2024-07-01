@@ -40,6 +40,7 @@ Welcome to my GitHub profile! I'm passionate about web development, data science
 
 ### Cloud & Hosting
 ![Vercel](https://img.shields.io/badge/-Vercel-333333?style=flat-square&logo=vercel)
+![Firebase](https://img.shields.io/badge/-Firebase-333333?style=flat-square&logo=firebase)
 
 ### Tools & IDEs
 ![VS Code](https://img.shields.io/badge/-VS%20Code-333333?style=flat-square&logo=visual-studio-code)
