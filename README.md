@@ -1,4 +1,5 @@
-# Hi there, I'm Kaushik A R 👋
+# Hey y'all!
+# I'm Kaushik, and I love coding, developing and AI!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Kaushik%20A%20R-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/kaushik-a-r-405673221/?originalSubdomain=in)
 
@@ -46,17 +47,6 @@ Welcome to my GitHub profile! I'm passionate about web development, data science
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat-square&logo=github)
 
-### Data Science & Machine Learning
-![Pandas](https://img.shields.io/badge/-Pandas-333333?style=flat-square&logo=pandas)
-![NumPy](https://img.shields.io/badge/-NumPy-333333?style=flat-square&logo=numpy)
-![Matplotlib](https://img.shields.io/badge/-Matplotlib-333333?style=flat-square&logo=matplotlib)
-![SciPy](https://img.shields.io/badge/-SciPy-333333?style=flat-square&logo=scipy)
-![scikit-learn](https://img.shields.io/badge/-scikit--learn-333333?style=flat-square&logo=scikit-learn)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-333333?style=flat-square&logo=tensorflow)
-![Keras](https://img.shields.io/badge/-Keras-333333?style=flat-square&logo=keras)
-![PyTorch](https://img.shields.io/badge/-PyTorch-333333?style=flat-square&logo=pytorch)
-![OpenCV](https://img.shields.io/badge/-OpenCV-333333?style=flat-square&logo=opencv)
-![NLTK](https://img.shields.io/badge/-NLTK-333333?style=flat-square&logo=nltk)
 
 ## 📈 GitHub Stats
 
