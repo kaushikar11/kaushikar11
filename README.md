@@ -15,9 +15,6 @@ Welcome to my GitHub profile! I'm passionate about web development, data science
 ![scikit-learn](https://img.shields.io/badge/-scikit--learn-333333?style=flat-square&logo=scikit-learn)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-333333?style=flat-square&logo=tensorflow)
 ![Keras](https://img.shields.io/badge/-Keras-333333?style=flat-square&logo=keras)
-![PyTorch](https://img.shields.io/badge/-PyTorch-333333?style=flat-square&logo=pytorch)
-![OpenCV](https://img.shields.io/badge/-OpenCV-333333?style=flat-square&logo=opencv)
-![NLTK](https://img.shields.io/badge/-NLTK-333333?style=flat-square&logo=nltk)
 
 
 
