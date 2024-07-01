@@ -55,8 +55,8 @@ Welcome to my GitHub profile! I'm passionate about web development, data science
 
 ## 🌟 Top Repositories
 
-[![Tweeshirt]((https://github.com/kaushikar11/Repo-Name](https://github.com/kaushikar11/Tweeshirt-frontend))
-
+[![Tweeshirt](https://github-readme-stats.vercel.app/api/pin/?username=kaushikar11&repo=Tweeshirt-frontend&theme=radical)](https://github.com/kaushikar11/Tweeshirt-frontend)
+tweeshirt.vercel.app
 
 ## 📫 How to reach me
 
