@@ -1,5 +1,5 @@
 <h1 align="center">Hey y'all!! I'm Kaushik</h1>
-<h3 align="center">I love to build and test stuff!</h3>
+<h3 align="center">I love to build and create stuff!</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=kaushikar11&label=Profile%20views&color=0e75b6&style=flat" alt="kaushikar11" />
