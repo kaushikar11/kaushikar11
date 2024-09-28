@@ -1,5 +1,5 @@
-# Hey y'all! I'm Kaushik!!<br>I am a Problem solver...<br>Throw anything at me and I will find a solution for it!
-I love doing research in AI<br>I am currently developing multiple web applications for various uses<br>I bootstrap budding startups<br>I'm currently learning automated IOT robots<br>I am passionate about all things tech!
+# Hey y'all! I'm Kaushik!!
+I am a Problem solver...<br>Throw anything at me and I will find a solution for it!<br>I love doing research in AI<br>I am currently developing multiple web applications for various uses<br>I bootstrap budding startups<br>I'm currently learning automated IOT robots<br>I am passionate about all things tech!
 
 
 ## 🌐 Socials:
