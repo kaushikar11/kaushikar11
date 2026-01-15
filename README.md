@@ -54,109 +54,82 @@ class Kaushik:
 ## 🛠️ Arsenal
 
 ### Languages
-![Python](https://img.shields.io/badge/Python-Expert-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-Proficient-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![C++](https://img.shields.io/badge/C++-Skilled-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-Competent-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-Database_Ninja-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### AI/ML Stack
+### AI/ML & Data Science
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=matplotlib&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
-**Specialties:** Explainable AI (SHAP, LIME) • Fairness in ML • CNNs • GRUs • Transfer Learning
+**Deep Learning:** CNNs • RNNs • GRUs • LSTM • Transfer Learning  
+**Explainable AI:** SHAP • LIME • Feature Attribution  
+**Fairness in ML:** Bias Mitigation • LFR • DIR • Reweighing • SPD • EOD • TI Metrics  
+**Specialized:** Graph Signal Processing • Time-Series Forecasting • Computer Vision
 
-### Full-Stack Arsenal
+### Frontend Technologies
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
+![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+
+**Design:** Responsive Design • Material UI • Tailwind CSS
+
+### Backend Technologies
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+
+**APIs:** RESTful API Design • OAuth Authentication • Session Management
+
+### Databases & Storage
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazon-dynamodb&logoColor=white)
+![Amazon S3](https://img.shields.io/badge/Amazon_S3-569A31?style=for-the-badge&logo=amazon-s3&logoColor=white)
+
+**Firebase Services:** Firestore • Realtime Database • Cloud Storage • Authentication  
+**Expertise:** Database Design • Schema Optimization • Indexing • MongoDB Atlas
 
 ### Cloud & DevOps
-![AWS](https://img.shields.io/badge/AWS-Certified-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
 
----
+**Certifications:**  
+✅ AWS Certified Machine Learning Engineer - Associate  
+✅ AWS Certified AI Practitioner
 
-## 🚀 Featured Projects
+### Architecture & Tools
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
-### 🤖 [LegalAppa](https://github.com/kaushikar11/LegalAppa) - AI Legal Platform
-> GenAI-powered document automation serving 15+ lawyers | React • Node.js • Firebase • LLM
-- 97% reduction in manual document prep time
-- LaTeX compilation for professional legal documents
-- Real-time collaboration with JWT authentication
-
-### 🎨 [Tweeshirt](https://github.com/stars/kaushikar11/lists/tweeshirt-app) - AI E-commerce
-> Stable Diffusion-powered custom apparel platform | Next.js • Node.js • Printrove API
-- 300+ daily requests with <2s latency
-- OAuth authentication with 90% reduction in unauthorized access
-- Full order lifecycle automation
-
-### 💼 [Locallu](https://github.com/kaushikar11/Locallu) - Freelancer Marketplace
-> Dual-sided platform connecting talent | React • Node.js • MongoDB • Firebase
-- Real-time notifications with Firebase
-- MVC architecture with Express.js
-- Skill-based filtering and job management
-
-### 🏢 [Hostel Management System](https://github.com/stars/kaushikar11/lists/hosteldb) - Production App
-> MERN stack managing 1000+ students | MongoDB Atlas • React • Node.js
-- **Currently in active production!**
-- 85% reduction in manual record-keeping
-- 99.99% uptime with MongoDB Atlas
-
-### 🧠 [Emotion Recognition XAI](https://github.com/stars/kaushikar11/lists/emotion-recognition-system)
-> Fair AI emotion classifier | GRU • SHAP • LIME • Fairness Metrics
-- 95% accuracy using biosignals (ECG, EMG, GSR, BVP)
-- 30% reduction in demographic bias
-- Fairness-aware ML techniques (LFR, DIR, Reweighing)
-
-### ⚡ [Energy Forecasting System](https://github.com/kaushikar11/Electrical-Energy-Consumption-Forecasting)
-> LSTM-based energy prediction | Graph Signal Processing • Time-Series
-- 95% accuracy for 3-day forecasts
-- 90%+ appliance-level disaggregation
-- Selected for college Demo-Day
-
----
-
-## 📄 Research Publications
-
-1. **Enhanced Drone Classification using Transfer Learning** (IEEE, 2025)
-   - Novel RF-to-spectrogram pipeline for UAV detection
-   - 5× computational reduction, 5% accuracy improvement
-
-2. **Human Activity Recognition using Explainable AI** (ICEMCE, 2024)
-   - SHAP/LIME analysis on wearable sensor data
-   - 30% feature redundancy reduction
-
-3. **Solar PV Forecasting with Regression Models** (IEEE, 2023)
-   - 99% forecasting accuracy
-   - ARIMA & multivariate regression
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kaushikar11&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kaushikar11&theme=radical&hide_border=false)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kaushikar11&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-</div>
+**Patterns & Concepts:** MVC • Microservices • Serverless • OOP • System Design • Agile  
+**Tools:** LaTeX • Version Control • CI/CD • Generative AI Models • LLMs
 
 ---
 
@@ -167,6 +140,7 @@ class Kaushik:
 - 🤝 Multi-agent collaboration frameworks
 - 🌐 IoT robotics and edge computing
 - 📊 Advanced fairness metrics in ML
+- 🎯 Production-scale ML deployment strategies
 
 ---
 
