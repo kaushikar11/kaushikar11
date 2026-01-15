@@ -39,18 +39,6 @@ class Kaushik:
 
 ---
 
-## 🔥 The Highlight Reel
-
-- 🎓 **Published Researcher** → 3 first-author IEEE papers with 10+ citations
-- 🛡️ **Defense Collaboration** → Built lightweight CNNs for UAV threat detection with Defence Institute of Advanced Technology
-- ⚖️ **Legal Tech Founder** → Created LegalAppa serving 15+ lawyers, cutting document prep time by 97%
-- 🏢 **Production Systems** → Built hostel management system handling 1000+ students (live in production!)
-- 🎨 **AI E-commerce** → Architected GenAI platform processing 300+ daily requests with <2s latency
-- ☁️ **AWS Certified** → ML Engineer Associate + AI Practitioner
-- 👨‍🏫 **Mentor** → TA for 200+ students in Cloud Computing & Distributed Systems
-
----
-
 ## 🛠️ Arsenal
 
 ### Languages
@@ -132,25 +120,6 @@ class Kaushik:
 **Tools:** LaTeX • Version Control • CI/CD • Generative AI Models • LLMs
 
 ---
-
-## 🎓 Currently Exploring
-
-- 🤖 Agentic AI systems and autonomous workflows
-- 🔬 LLM fine-tuning and prompt engineering
-- 🤝 Multi-agent collaboration frameworks
-- 🌐 IoT robotics and edge computing
-- 📊 Advanced fairness metrics in ML
-- 🎯 Production-scale ML deployment strategies
-
----
-
-## 💬 Let's Build Something Awesome
-
-I'm always down to collaborate on:
-- 🧪 Cutting-edge AI/ML research
-- 🚀 Production-ready applications
-- 🎯 Startup ideas that solve real problems
-- 🎓 Open-source contributions
 
 **Hit me up:** kaushikar2211@gmail.com
 
