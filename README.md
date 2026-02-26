@@ -2,12 +2,12 @@
 
 <div align="center">
   
-### 🧠 AI Researcher | 💻 Full-Stack Alchemist | 🚀 Startup Builder
+### AI Researcher | Full-Stack Alchemist | Startup Builder
 
 *I turn caffeine into code and research papers into production systems*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kaushik-alaguvadivel-ramya-405673221)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Check_It_Out-FF6B6B?style=for-the-badge&logo=vercel&logoColor=white)](https://kaushikar.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=vercel&logoColor=white)](https://kaushikar.vercel.app)
 [![Scholar](https://img.shields.io/badge/Google_Scholar-3_Papers_10+_Citations-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=qghXVakAAAAJ&hl=en)
 [![Email](https://img.shields.io/badge/Email-Say_Hi-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kaushikar2211@gmail.com)
 
